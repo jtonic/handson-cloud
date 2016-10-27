@@ -25,3 +25,6 @@ This is a learning purpose projects to get my feet wet with cloud offerings:
         1. Server 
         1. Stream
         1. UI
+
+##### Notes
+* The intention is to deploy the microservices and the cloud tools/services in Docker containers 
